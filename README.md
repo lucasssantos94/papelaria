@@ -2,7 +2,7 @@
 
 ## Começando 🚀
 
-Projeto feito na aula do curto Vai na Web com orientação do professor Vinicius.
+Projeto feito na aula do curso Vai na Web com orientação do professor Vinicius.
 
 ## Tecnologias
 HTML5 e CSS3
